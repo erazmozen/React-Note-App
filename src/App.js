@@ -1,7 +1,6 @@
 import React from "react";
 import Sidebar from "./components/Sidebar";
 import Editor from "./components/Editor";
-import { data } from "./data";
 import Split from "react-split";
 // Ovo je eksterni dependency za split pogled na stranici
 import { nanoid } from "nanoid";
